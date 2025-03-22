@@ -1,0 +1,16 @@
+# recap of JavaScript:
+
+1. template string
+2. arrow functions
+3. spread operator
+4. array methods [map, filter, find]
+5. JSON
+6. data fetching
+7. data
+
+# Basic Concept of React:
+
+1. Component
+2. JSON
+3. Props
+4. Condition to Rendering
