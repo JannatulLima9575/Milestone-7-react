@@ -13,8 +13,10 @@ function Lima() {
   const country = 'Bangladesh';
   return (
     <>
+      <div>
       <h1>My Self</h1>
       <p>I'm from {country}</p>
+      </div>
     </>
   );
 }
